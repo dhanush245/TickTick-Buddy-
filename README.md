@@ -42,6 +42,8 @@ Angular CLI
 ---
 
 ## Screenshots
+<img width="1166" height="681" alt="image" src="https://github.com/user-attachments/assets/f147e336-f6f2-4369-9b48-f5dbcc852044" />
+
 
 ## 📂 Folder Structure
 ```├── .browserslistrc
