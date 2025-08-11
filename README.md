@@ -1,27 +1,92 @@
-# TickTickBuddy
+# ✅ TickTick Buddy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+**TickTick Buddy** is a personal productivity web app built with **Angular** that lets you:
+- Login securely (Google authentication or normal login if configured)
+- Create, edit, mark as favorite, and delete tasks
+- Keep track of your daily to-dos in a clean, responsive UI
+- Logout when you’re done
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
+- **User Authentication**: Secure login (can be extended with Firebase or other OAuth services)
+- **Task Management**:
+  - Add new tasks
+  - Edit tasks
+  - Mark/unmark as favorite ⭐
+  - Delete tasks
+- **Responsive Design**: Works smoothly on mobile, tablet, and desktop
+- **Logout Button**: Located at the bottom of the container for easy access
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ⚙️ Installation
 
-## Build
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/dhanush245/TickTick_Buddy.git
+   cd TickTick_Buddy
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Technologies Used
+Angular (Frontend Framework)
 
-## Running unit tests
+TypeScript
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+HTML5 / CSS3
 
-## Running end-to-end tests
+RxJS
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Angular CLI
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Screenshots
+
+## 📂 Folder Structure
+```├── .browserslistrc
+├── .editorconfig
+├── .gitignore
+├── README.md
+├── angular.json # Angular workspace configuration
+├── karma.conf.js # Karma test runner config
+├── package-lock.json
+├── package.json # Dependencies and scripts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.spec.json
+├── src/
+│ ├── app/
+│ │ ├── login/
+│ │ │ ├── login.component.html
+│ │ │ ├── login.component.css
+│ │ │ ├── login.component.ts
+│ │ │ └── login.component.spec.ts
+│ │ ├── todo-list/
+│ │ │ ├── todo-list.component.html
+│ │ │ ├── todo-list.component.css
+│ │ │ ├── todo-list.component.ts
+│ │ │ └── todo-list.component.spec.ts
+│ │ ├── app-routing.module.ts
+│ │ ├── app.component.css
+│ │ ├── app.component.html
+│ │ ├── app.component.ts
+│ │ ├── app.module.ts
+│ ├── assets/ # Static assets (images, icons, etc.)
+│ ├── environments/ # Environment configs
+│ │ ├── environment.ts
+│ │ └── environment.prod.ts
+│ ├── favicon.ico
+│ ├── index.html
+│ ├── main.ts
+│ ├── polyfills.ts
+│ ├── styles.css # Global styles
+│ ├── test.ts```
+
+## ⚙️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/dhanush245/TickTick_Buddy.git
+   cd TickTick_Buddy
+
