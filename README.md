@@ -43,6 +43,9 @@ Angular CLI
 
 ## Screenshots
 <img width="1166" height="681" alt="image" src="https://github.com/user-attachments/assets/f147e336-f6f2-4369-9b48-f5dbcc852044" />
+<img width="1523" height="667" alt="image" src="https://github.com/user-attachments/assets/1a4e2b02-8e36-4696-a690-cda04c84c98e" />
+
+---
 
 
 ## 📂 Folder Structure
